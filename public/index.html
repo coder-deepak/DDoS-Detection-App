@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DDoS Detection</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>DDoS Detection System</h1>
+    <div class="card">
+      <div class="loader hidden" id="loader"></div>
+      <p><strong>Entropy:</strong> <span id="entropy">--</span></p>
+      <p><strong>Status:</strong> <span id="status">Loading...</span></p>
+    </div>
+    <button onclick="checkDDoS()">Refresh Status</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
