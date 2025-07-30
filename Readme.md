@@ -2,7 +2,8 @@
 
 **DDoS Detection Web App** is a real-time monitoring system designed to detect potential Distributed Denial of Service (DDoS) attacks using entropy-based anomaly detection. It helps system administrators analyze suspicious network behavior and take action proactively.
 
-![DDoS Detection Banner](https://user-images.githubusercontent.com/your-image-link.png)
+![DDoS Detection Banner](https://user-images.githubusercontent.com/12345678/ddos-banner.png)
+
 
 ---
 
